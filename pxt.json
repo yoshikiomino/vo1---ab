@@ -1,0 +1,22 @@
+{
+    "name": "VO1 - ボタンAで「一秒」、ボタンBで「さようなら」としゃべる",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "stem": "github:tfabworks/pxt-stem#v1.5.3",
+        "pxt-tfabconnect": "github:tfabworks/pxt-tfabconnect#986871af4afc960167c2c1b3c83c674c07d73b1d"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
